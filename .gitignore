@@ -3,6 +3,20 @@ node_modules
 
 # Source maps
 *.js.map
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
 
 # Files marked with gitigx
 *gitigx*
